@@ -16,6 +16,8 @@ To do this, I followed [Creating a GitHub Pages site with Jekyll](https://docs.g
 and [Installed Jekyll](https://jekyllrb.com/docs/installation/macos/) on my Mac so I could experiment locally, using the details in
 [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll?platform=mac).
 
+For github to build the site, I went into Settings/Pages, set the "Branch" to `main` and the folder to `/docs`.
+After a few moments, the site was available at [https://dswisher.github.io/sumer-variants/](https://dswisher.github.io/sumer-variants/).
 
 The [Jekyll docs](https://jekyllrb.com/docs/home) may come in useful at some point, and the [Jekyll source](https://github.com/jekyll/jekyll) is on github.
 Right now, it is using the [minima theme](https://github.com/jekyll/minima).

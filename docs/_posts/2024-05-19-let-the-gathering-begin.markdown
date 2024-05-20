@@ -63,3 +63,13 @@ SO LONG FOR NOW.
 
 Evidently, I need some practice.
 
+
+## Santa Paravia en Fiumaccio
+
+The game [Santa Paravia en Fiumaccio](https://en.wikipedia.org/wiki/Santa_Paravia_en_Fiumaccio) has multiple releases, per the [Moby Games page](https://www.mobygames.com/game/22338/santa-paravia-and-fiumaccio/).
+It looks like it first appeared in [Softside Magazine](https://archive.org/details/softside-magazine-03/page/n7/mode/2up?view=theater), before being published for sale.
+
+I have not been able to find downloadable source for it, but I did find a [port to C](https://github.com/darkf/paravia).
+
+I am tempted to type in the source, but to do that, I need to find a TRS-80 emulator I can run on MacOS to verify the code as I enter it.
+
